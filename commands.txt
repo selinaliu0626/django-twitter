@@ -1,1 +1,5 @@
 # source ~/.virtualenvs/twitter2/bin/activate  -- active virtual enviroment
+# Adfter apply above changes, at terminal (in your ubuntu server, with correct virtual env activated) run:
+#
+# python manage.py migrate
+# python manage.py test -v3, all test cases should pass
