@@ -8,7 +8,7 @@ Set Django with Multipass(With Mac)
 brew install --cask multipass
 ```
 ## 1.2. Verify you installed multipass successfully
-输入命令
+
 ```shell
 multipass find
 ```
