@@ -6,7 +6,8 @@ Twitter
 
 Core design
 
-![Uploading Screenshot 2023-09-20 at 7.34.14 PM.png…]()
+<img width="1219" alt="Screenshot 2023-09-20 at 7 34 14 PM" src="https://github.com/selinaliu0626/django-twitter/assets/66767001/e546c081-ff71-4e6a-8f59-bf2f21ff49fd">
+
 
 Set Django with Multipass(With Mac)
 ## 1. install multipass
