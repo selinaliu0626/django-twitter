@@ -1,5 +1,13 @@
 # django-twitter
-twitter
+
+core design
+
+Twitter
+
+Core design
+
+![Uploading Screenshot 2023-09-20 at 7.34.14 PM.png…]()
+
 Set Django with Multipass(With Mac)
 ## 1. install multipass
 
