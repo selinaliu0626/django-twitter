@@ -6,7 +6,8 @@ Twitter
 
 Core design
 
-<img width="1219" alt="Screenshot 2023-09-20 at 7 34 14 PM" src="https://github.com/selinaliu0626/django-twitter/assets/66767001/e546c081-ff71-4e6a-8f59-bf2f21ff49fd">
+![Screenshot 2023-09-21 at 8 02 03 PM](https://github.com/selinaliu0626/django-twitter/assets/66767001/09a3a5d5-f5bf-4b10-898f-a5ae0cc6a183)
+
 
 
 Set Django with Multipass(With Mac)
